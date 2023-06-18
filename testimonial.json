@@ -1,0 +1,44 @@
+[
+    {
+        "img":"https://img.freepik.com/premium-vector/people-saving-money_24908-51569.jpg?w=740",
+        "name":"Nash Patrik",
+        "post":"CEO, Manpol",
+        "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus commodo ipsum duis laoreet maecenas. Feugiat ",
+        "id":1
+    },
+    {
+        "id":2,
+        "img":"https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-859.jpg?w=740&t=st=1686999565~exp=1687000165~hmac=657e40d9d31b921155869a7682d913733fcb29cc96cbb8bf0a4b29e4447018d3",
+        "name":"Nash Patrik",
+        "post":"CEO, Manpol",
+        "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus commodo ipsum duis laoreet maecenas. Feugiat "
+    },
+    {
+        "id":3,
+        "img":"https://img.freepik.com/premium-vector/young-man-with-frame-circular-avatar-character_24911-48125.jpg?w=740",
+        "name":"Nash Patrik",
+        "post":"CEO, Manpol",
+        "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus commodo ipsum duis laoreet maecenas. Feugiat "
+    },
+    {
+        "id":4,
+        "img":"https://img.freepik.com/premium-vector/young-man-avatar-character_24877-9475.jpg?w=740",
+        "name":"Nash Patrik",
+        "post":"CEO, Manpol",
+        "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus commodo ipsum duis laoreet maecenas. Feugiat "
+    },
+    {
+        "id":5,
+        "img":"https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-850.jpg?w=740&t=st=1686999622~exp=1687000222~hmac=a9b603484fda506c12a7cc29c040e676da3994ecdeb0ccb89dba97dba06571f7",
+        "name":"Nash Patrik",
+        "post":"CEO, Manpol",
+        "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus commodo ipsum duis laoreet maecenas. Feugiat "
+    },
+    {
+        "id":6,
+        "img":"https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-857.jpg?w=740&t=st=1686999640~exp=1687000240~hmac=48f332fe626bcad51891f9db4335d9b2f1dad820015ef048e75589016731b679",
+        "name":"Nash Patrik",
+        "post":"CEO, Manpol",
+        "des":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus commodo ipsum duis laoreet maecenas. Feugiat "
+    }
+]
